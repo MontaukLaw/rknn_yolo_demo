@@ -1,0 +1,2 @@
+/usr/bin/ar qc librknnyolo.a  CMakeFiles/rknnyolo.dir/src/drm_func.c.o CMakeFiles/rknnyolo.dir/src/rga_func.c.o CMakeFiles/rknnyolo.dir/src/postprocess.cc.o CMakeFiles/rknnyolo.dir/src/lib_interface.cc.o
+/usr/bin/ranlib librknnyolo.a
